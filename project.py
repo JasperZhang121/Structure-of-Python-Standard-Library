@@ -6,11 +6,6 @@ def analyse_stdlib():
     task4()
     task5()
 
-
-# The section below will be executed when you run this file.
-# Use it to run tests of your analysis function on the data
-# files provided.
-
 '''
 Task 1 Collect names of the StdLib modules and packages
 '''
